@@ -1,6 +1,6 @@
 /*============================================================================
   Project  : Tuition Payments – Baseline
-  Authors  : Ronaldo Agbohou
+  Author  : Ronaldo Agbohou
   Date     : 23 February 2026
   Purpose  : Extract screening variables from survey versions 2–4,
              backfill *_ao variables when the main respondent is female,
