@@ -1,6 +1,6 @@
 # ============================================================================
 #  Project  : Tuition Payments – Baseline
-#  Authors  : KCDEV RAs
+#  Authors  : Ronaldo Agbohou
 #  Purpose  : Clean and merge student administrative and survey data
 #  Software : Python 3.10+
 #  Requires : pip install pandas pyreadstat openpyxl
